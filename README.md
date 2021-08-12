@@ -6,3 +6,5 @@ inside the myGUI package you will find both myGUIsg (the PySimpleGUI wrapper) an
 (the tkinter wrapper)
 
 note that myGUIsg will be getting more updates
+
+a wiki will be added soon
